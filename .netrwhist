@@ -1,9 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/andrey/old_laptop/Programing/Drupals/Mod7/Editor/imce'
-let g:netrw_dirhist_2='/home/andrey/old_laptop/Programing/Drupals/Mod7/Editor'
-let g:netrw_dirhist_3='/home/andrey'
-let g:netrw_dirhist_4='/home/andrey/old_laptop/Programing/Android/Currecy'
-let g:netrw_dirhist_5='/home/andrey/old_laptop/Programing/Android/Currecy/.git'
-let g:netrw_dirhist_6='/home/andrey/old_laptop/Programing/Android/Currecy'
-let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/andrey/Ucheba/Kyrsovoy_5god/Exampes'
+let g:netrw_dirhist_2='/home/andrey/Ucheba/Kyrsovoy_5god'
+let g:netrw_dirhist_3='/home/andrey/Ucheba/Kyrsovoy_5god/Exampes'
